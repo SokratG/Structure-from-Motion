@@ -1,0 +1,20 @@
+{
+    "SFM_Parameters": {
+        "brisk_threshold": 30,
+        "brisk_number_octave": 3,
+        "brisk_pattern_scale": 1.0,
+        "focal_length": 500.0,
+        "center_x": -1.0,
+        "center_y": -1.0,
+        "aspect_ratio": 1.0,
+        "scale_images": 0.25,
+        "depth_inititially": 2.0,
+        "depth_limit": 5.5,
+        "min_inlier_points": 200,
+        "BA_max_iteration": 200,
+        "BA_loss_width": 9.0, 
+        "RANSAC_threshold": 2.9,
+        "number_threads": 1,
+        "data_path": "data/relief/"
+    }
+ }
